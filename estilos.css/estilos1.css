@@ -1,0 +1,9 @@
+
+a:hover { color: pink; text-decoration: underline }
+a:link
+{
+text-decoration:none;
+font-family:"Comic Sans MS", cursive
+  cursor: auto;
+      color: -webkit-link;
+}
